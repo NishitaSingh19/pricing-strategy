@@ -2,14 +2,6 @@
 
 This project comprehensively explores conjoint analysis techniques used to understand consumer behavior in market research, particularly in product and pricing decisions. The team has conducted a detailed study on various product features and their impact on consumer preferences and decision-making.
 
-## Team Members
-
-- Deepak Singh
-- Priyanka Malhotra
-- Himanish Prakash
-- Kumar Kishalaya
-- Nishita Singh Parmar
-
 ## About Conjoint Analysis
 
 Conjoint analysis is a statistical technique used in market research to determine how people value different attributes (features, functions, benefits) that make up an individual product or service.
@@ -39,5 +31,13 @@ Each team member analyzed different attributes and their impact on consumer pref
 ## Conclusion
 
 The study provides deep insights into consumer preferences and market dynamics, which can assist businesses in optimizing their product offerings and pricing strategies effectively.
+
+## Contributors
+
+- Himanish Prakash
+- Nishita Singh Parmar
+- Deepak Singh
+- Priyanka Malhotra
+- Kumar Kishalaya
 
 
