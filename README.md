@@ -1,4 +1,4 @@
-# Conjoint Analysis
+# Pricing Strategy for Television
 
 This project comprehensively explores conjoint analysis techniques used to understand consumer behavior in market research, particularly in product and pricing decisions. The team has conducted a detailed study on various product features and their impact on consumer preferences and decision-making.
 
